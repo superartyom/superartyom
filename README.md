@@ -3,8 +3,9 @@
 ### 🚀 About Me
 I'm a student. Interested in cybersec
 
--  I’m currently working on **ESP32 powered pc switcher**
--  I’m currently learning **AI integrated systems**
+-  Working on **ESP32 powered pc power switcher**
+-  Learning **Assembler**
+-  Studying to become an **ML engineer**
 
 ---
 
