@@ -1,4 +1,4 @@
-# Hi there, I'm Artyom! 👋
+# Hi👋 I'm Artyom! 
 
 ### 🚀 About Me
 I'm a student. Interested in cybersec
