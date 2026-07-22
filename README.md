@@ -4,7 +4,7 @@
 I'm a student. Interested in cybersec
 
 -  Working on **ESP32 powered pc power switcher**
--  Learning **Assembler**
+-  Learning **Assembly**
 -  Studying to become an **ML engineer**
 
 ---
@@ -13,7 +13,7 @@ I'm a student. Interested in cybersec
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | `C++`, `Python`|
+| **Languages** | `C++`, `Python`, `Assembly basics`|
 | **Tools & Databases** | `Linux`, `Git`, `T-SQL` |
 
 ---
