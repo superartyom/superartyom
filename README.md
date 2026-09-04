@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a student. Interested in cybersec
 
--  Working on **ESP32 powered pc power switcher**
+-  Working on **ESP32 powered pc power switch**
 -  Learning **Assembly**
 -  Studying to become an **ML engineer**
 
