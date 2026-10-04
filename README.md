@@ -1,10 +1,10 @@
 # Hi👋 I'm Artyom! 
 
 ### 🚀 About Me
-I'm a student. Interested in cybersec
+I'm a student. Interested in cybersec and ML.
 
--  Working on **ESP32 powered pc power switch**
--  Learning **Assembly**
+-  Working on ****
+-  Learning **Machine Learning**
 -  Studying to become an **ML engineer**
 
 ---
